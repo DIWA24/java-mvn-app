@@ -4,4 +4,8 @@ asdf
 asd
 f
 asdf
+<<<<<<< HEAD
 jkjkjkm
+=======
+jkjkjkl
+>>>>>>> f1f07e29c5f2bca6350113806185b0b1dce23bdb
